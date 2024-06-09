@@ -56,7 +56,7 @@ class _MyBlogListState extends State<MyBlogList> {
     String content =
         "Hello, in this blog we will talk about $randomTitle's silly name.";
 
-    final uri = Uri.parse(constants.url);
+    final uri = Uri.parse(constants.apiUrl);
     final headers = {"Content-Type": "application/json"};
     final body = json.encode({"title": title, "content": content});
 
@@ -82,7 +82,7 @@ class _MyBlogListState extends State<MyBlogList> {
   }
 
   void fetchBlogs() async {
-    final uri = Uri.parse(constants.url);
+    final uri = Uri.parse(constants.apiUrl);
 
     if (items.isNotEmpty) {
       setState(() {
