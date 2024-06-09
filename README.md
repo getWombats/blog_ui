@@ -42,11 +42,11 @@ The app only runs on windows and android. For iOS support, please contact me [he
 
 - [x] Initial commit with demo code
 - [x] Updated readme
+- [x] Implement blog list view
 
 ## Roadmap
 
 - [ ] Put all opening curly braces on new line
-- [ ] Implement blog list view
 - [ ] Implement Drawer menu
 - [ ] Implement "add blog post" button with functionality
 - [ ] Implement folder structure or something like a design pattern
