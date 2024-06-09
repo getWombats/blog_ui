@@ -48,7 +48,8 @@ The app only runs on windows and android. For iOS support, please contact me [he
 - [ ] Put all opening curly braces on new line
 - [ ] Implement blog list view
 - [ ] Implement Drawer menu
-- [ ] Implement "add blog" button with functionality
+- [ ] Implement "add blog post" button with functionality
 - [ ] Implement folder structure or something like a design pattern
+- [ ] Implement "add new blog post" dialog
 
 Roadmap to be completed soon...
