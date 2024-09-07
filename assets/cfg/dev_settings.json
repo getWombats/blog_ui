@@ -1,0 +1,10 @@
+{
+    "localIp": "localhost",
+    "localIpAndroid": "10.0.2.2",
+    "apiPort": "8080",
+    "kkPort": "8088",
+    "clientId": "backend-service",
+    "clientSecret": "8H8aGvxocW0kP4ht3kg7dQ8kxHUBr8c8",
+    "defaultAvatar": "assets/images/default_avatar.png",
+    "defaultTimeFormat": "dd.MM.yyyy HH:mm"
+}
